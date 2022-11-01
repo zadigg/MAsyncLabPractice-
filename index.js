@@ -3,7 +3,7 @@ function greretings() {
 }
 
 function greretings() {
-  console.log("Hello agains");
+  console.log("Hello again");
 }
 
 greretings;
