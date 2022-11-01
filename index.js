@@ -1,9 +1,9 @@
 function greretings() {
-  console.log("Hello again");
+  console.log("Hello againsad");
 }
 
 function greretings() {
-  console.log("Hello again");
+  console.log("asdlkjlksjd");
 }
 
 greretings;
